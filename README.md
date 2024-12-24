@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm ERICK</h1>
 <h3 align="center">I'M COLLGE STUDENT. FORM PHILIPPINE</h3>
 
