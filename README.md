@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pewpewwwwwwww&label=Profile%20views&color=0e75b6&style=flat" alt="pewpewwwwwwww" /> </p>
 
-- 🌱 I’m currently learning **PHP, JavaScript, MySQL**
+- 🌱 I’m currently learning **React, JavaScript, MySQL**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL**
 
