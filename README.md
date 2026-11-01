@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript, MySQL**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **gozoerick28@gamil.com**
 
