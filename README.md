@@ -1,25 +1,68 @@
-<h1 align="center">Hi 👋, I'm Erick</h1>
-<h3 align="center">I'M COLLEGE STUDENT. FROM THE PHILIPPINES</h3>
+# Hi there, I'm Erick! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pewpewwwwwwww&label=Profile%20views&color=0e75b6&style=flat" alt="pewpewwwwwwww" /> </p>
+A passionate **Junior Web Developer** and IT student based in the Philippines. I love crafting clean user interfaces, prototyping interactive designs, and turning logic into responsive full-stack web applications.
 
-- 🌱 I’m currently learning **React, JavaScript, MySQL**
+---
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+### 🚀 About Me
 
-- 📫 How to reach me **gozoerick28@gamil.com**
+- 🎓 Currently studying at **The College of Maasin**
+- 💻 Building modern web applications from frontend UI to backend logic
+- 🎨 Translating visual ideas and wireframes into pixel-perfect code
+- 🌱 Continuously expanding my stack and exploring modern development workflows
+- 💬 Ask me about: **Frontend Development**, **React**, and **UI Prototyping**
 
-- ⚡ Fun fact **I'M A GOOD PERSON :)**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack & Tools
+
+**Frontend & Styling**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Design & UI/UX**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Version Control & Environment**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+### 🏆 Achievements & Highlights
+
+- 🌐 **Full-Stack Project Deployments:** Successfully designed, built, and launched responsive web applications integrating dynamic databases.
+- 🎨 **Component-Driven Prototyping:** Built comprehensive design systems and mockups in Figma before writing production-ready code.
+- 📚 **Academic Milestones:** Delivered multiple capstone and project-based system solutions during degree coursework at The College of Maasin.
+
+---
+
+### ⚡ Fun Facts
+
+- 🔍 I can spend 30 minutes moving an element 2px to the left until it feels "just right."
+- ☕ Coffee is directly convertible into clean code and debugging patience.
+- 🎯 When not writing code, I'm usually testing new interface interactions or studying modern UI design trends.
+
+---
+
+### 📬 Connect With Me
+
 <p align="left">
-<a href="https://fb.com/erick gozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erick gozo" height="30" width="40" /></a>
-<a href="https://discord.gg/pew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pew" height="30" width="40" /></a>
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_USER_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pewpewwwwwwww&show_icons=true&locale=en&layout=compact" alt="pewpewwwwwwww" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pewpewwwwwwww&show_icons=true&locale=en" alt="pewpewwwwwwww" /></p>
+<!-- Optional: Discord Tag Display -->
+> **Discord:** `@your_discord_username`
