@@ -22,6 +22,8 @@ I'm an Information Technology student at **The College of Maasin**, passionate a
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 #### **Backend & Database**
@@ -37,8 +39,9 @@ I'm an Information Technology student at **The College of Maasin**, passionate a
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-#### **Environment & Workflow**
+#### **Deployment & Workflow**
 <p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -57,7 +60,7 @@ I'm an Information Technology student at **The College of Maasin**, passionate a
 
 ### ⚡ Fun Facts
 
-- 🥏 When I'm away from the keyboard, you’ll likely find me playing **Ultimate Frisbee**!
+- 🥏 When I'm away from the keyboard, you’ll likely find me on the field playing **Ultimate Frisbee**!
 - 🎨 I have a strong eye for clean interfaces and deep green color palettes.
 - 🎮 I enjoy multiplayer gaming, modding, and occasional server-side game scripting.
 - ☕ Powered by curiosity, hands-on experimentation, and lots of trial and error.
@@ -69,11 +72,14 @@ I'm an Information Technology student at **The College of Maasin**, passionate a
 Feel free to reach out if you'd like to chat about tech, study together, or collaborate!
 
 <p align="left">
-  <a href="https://facebook.com/your-facebook-profile" target="_blank">
+  <a href="mailto:gozoerick28@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/share/1Duu6E7mK8/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-peww8800-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
