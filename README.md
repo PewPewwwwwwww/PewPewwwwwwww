@@ -57,7 +57,7 @@ I'm an Information Technology student at **The College of Maasin**, passionate a
 
 ### ⚡ Fun Facts
 
-- 🏸 When I'm away from the keyboard, you’ll likely find me playing **Sepak Takraw**!
+- 🏸 When I'm away from the keyboard, you’ll likely find me playing **Ultimate Frisbee**!
 - 🎨 I have a strong eye for clean interfaces and deep green color palettes.
 - 🎮 I enjoy multiplayer gaming, modding, and occasional server-side game scripting.
 - ☕ Powered by curiosity, hands-on experimentation, and lots of trial and error.
